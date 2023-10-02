@@ -8,10 +8,6 @@
 
 ***
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabiodejesusfferreira" alt="fabiodejesusfferreira" /></a> </p>
-
-***
-
 - 📫 Meu gmail: **fabiodejesusfferreira@gmail.com**
 - ️💬 Instagram: [@fabiojesusfferreira](https://instagram.com/fabiojesusfferreira?igshid=OGQ5ZDc2ODk2ZA==)
 
