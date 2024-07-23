@@ -1,16 +1,24 @@
-<h1 align="center">👋 Olá, me chamo Fábio de Jesus, prazer em lhe conhecer! ☕</h1>
-<h3 align="center">Sou um programador iniciante que quer sempre aprender coisas novas e criar projetos incríveis!</h3>
+<h1 align="center">👋 Hello, my name is Fábio, nice to meet you! ☕</h1>
+<p align="center">I'm a beginner programmer who always wants to learn new things and create amazing projects!</p>
+<p>🖥️ Front-end delevoper</p>
+<p>🤖 Bot programmer for Discord</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fabiodejesusfferreira&label=Profile%20views&color=0e75b6&style=flat" alt="fabiodejesusfferreira" /> </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiodejesusfferreira&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="fabiodejesusfferreira" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiodejesusfferreira&show_icons=true&theme=github_dark&locale=en" alt="fabiodejesusfferreira" /></p>
+<h2>About me</h2>
+<p>I'm a learning HTML5 and CSS3 developer and I'm constantly looking for ways to solve problems in the most practical way possible and also learning new technologies.</p>
+<p>I have experience in the following technologies:</p>
+<ul>
+ <li>Discord.js</li>
+ <li>MongoDB</li>
+ <li>Git</li>
+ <li>Javavscript</li>
+</ul>
+<hr>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiodejesusfferreira&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="fabiodejesusfferreira" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiodejesusfferreira&show_icons=true&theme=github_dark&locale=en" alt="fabiodejesusfferreira" />
 
 ***
-
-- 📫 Meu gmail: **fabiodejesusfferreira@gmail.com**
-- ️💬 Instagram: [@fabiojesusfferreira](https://instagram.com/fabiojesusfferreira?igshid=OGQ5ZDc2ODk2ZA==)
-
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"> </a> <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="40" height="40"/> </a> <a href="https://nodejs.org/pt-br" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-</p>
+<h3>Contatos:</h3>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
