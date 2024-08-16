@@ -10,7 +10,7 @@
  <li>Discord.js</li>
  <li>MongoDB</li>
  <li>Git</li>
- <li>Javavscript</li>
+ <li>Javascript</li>
 </ul>
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiodejesusfferreira&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="fabiodejesusfferreira" />
