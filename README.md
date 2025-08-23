@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
 </a>
 <a href="https://www.linkedin.com/in/dejesusdev"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
-<a href="discord.com/users/430502315108335617">
+<a href="https://discord.com/users/430502315108335617">
 <img src="https://img.shields.io/badge/-discord-020114?style=for-the-badge&amp;logo=discord-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="Discord">
 </a>
 </div>
@@ -37,29 +37,3 @@
 <strong>
   <p style="font-size: 20px;"><img src="profile-assets/xicara-de-cafe.png" width="20px"> "Coffe fuels innovation" <img src="profile-assets/xicara-de-cafe.png" width="20px"></p>
 </strong>
-
-<!-- <h1 align="center">👋 Hello, my name is Fábio, nice to meet you! ☕</h1>
-<p align="center">I'm a beginner programmer who always wants to learn new things and create amazing projects!</p>
-<p>🖥️ Front-end delevoper</p>
-<p>🤖 Bot programmer for Discord</p>
-
-<h2>About me</h2>
-<p>I'm a learning HTML5 and CSS3 developer and I'm constantly looking for ways to solve problems in the most practical way possible and also learning new technologies.</p>
-<p>I have experience in the following technologies:</p>
-<ul>
- <li>Discord.js</li>
- <li>MongoDB</li>
- <li>Git</li>
- <li>Javascript</li>
-</ul>
-<hr>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiodejesusfferreira&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="fabiodejesusfferreira" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiodejesusfferreira&show_icons=true&theme=github_dark&locale=en" alt="fabiodejesusfferreira" />
-
-***
-<h3>Contatos:</h3>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
- -->
