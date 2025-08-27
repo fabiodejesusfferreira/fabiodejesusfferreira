@@ -1,7 +1,7 @@
 <img src="./profile-assets/fabiodejesus_banner.png"/>
 
 <h3 align="center">
-  Fullstack Developer • Bot programmer for Discord • Coffee Lover
+  💻 Fullstack Developer • 🤖 Bot programmer for Discord • ☕ Coffee Lover
 </h3>
 <hr>
 <div align="center">
